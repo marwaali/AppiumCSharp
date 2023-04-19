@@ -1,0 +1,12 @@
+﻿<UIAutomation>
+  <EnvironmentInformation>
+    <QA>
+      <API  url="https://be.qa.fillflix.de/"/>
+      <LoginInfo persona="admin" username="Driver2@marwa.com" password="Test!1234567"></LoginInfo>
+	  <EmailExchangeServerInformation emailusername="noreply-stage@fillflix.com" encryptedPassword="FillFlix19#" />
+    </QA>
+  </EnvironmentInformation>
+  <ExecutionList>
+	<LoginToFillFlix persona="Driver" dependentScripts="" run="Yes"/>
+  </ExecutionList>
+</UIAutomation>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <AddLoad>
+    <![CDATA[{"ID": 0, "Title":"<<title>>", "SiteTitle": "<<sitetitle>>", "Owner": "", "Overview": "", "MobileOverview": "", "MessageToAllInvitees": "", "CreatedDate": "<<createddate>>", "ExternalOpportunityID": "",  "SFDCOpportunityName": null, "Template": <<template>>, "SpotlightFiles": [{"Asset": <<asset>>, "Attachment": null, "Viewed": false}], "SpotlightQuotes": [], "Invitees": [], "Favorite": false, "Owned": true, "Visited": false,  "Rating": 0, "PublicKey": "",  "SpotlightImageLink": null,  "SpotlightTemplateID": 0,  "IsRecommended": false,  "IncludeTermsAndConditions": true,  "IsChrome": false}]]>
+  </AddLoad>
+</Root>
